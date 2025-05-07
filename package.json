@@ -1,0 +1,16 @@
+{
+  "name": "rn-animated-header-api",
+  "version": "1.0.0",
+  "description": "A React Native animated scrollable header component",
+  "license": "ISC",
+  "author": "\"ansari aas\"",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "react": "^19.0.0",
+    "react-native": "^0.79.2"
+  }
+}
