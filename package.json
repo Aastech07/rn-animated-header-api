@@ -1,6 +1,6 @@
 {
   "name": "rn-animated-header-api",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A React Native animated scrollable header component",
   "license": "ISC",
   "author": "\"ansari aas\"",
@@ -9,8 +9,23 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aastech07/rn-animated-header-api"
+  },
+  "keywords": [
+    "react-native",
+    "animated",
+    "header",
+    "collapsible",
+    "component",
+    "flatlist"
+  ],
   "peerDependencies": {
     "react": "^19.0.0",
     "react-native": "^0.79.2"
+  },
+  "dependencies": {
+    "react-native-vector-icons": "^10.2.0"
   }
 }
